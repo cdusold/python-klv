@@ -2,7 +2,7 @@ from setuptools import setup
 
 setup(
     name='klv',
-    version='0.0.2',
+    version='0.0.3',
     license='MIT',
     description='Key Length Value encoding and decoding',
     author='Arts Alliance Media',
