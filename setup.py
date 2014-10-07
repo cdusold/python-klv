@@ -1,9 +1,8 @@
-from distutils.core import setup
-from klv import __version__
+from setuptools import setup
 
 setup(
     name='klv',
-    version=__version__,
+    version='0.0.2',
     license='MIT',
     description='Key Length Value encoding and decoding',
     author='Arts Alliance Media',
