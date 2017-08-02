@@ -1,9 +1,9 @@
-[![Build Status](https://travis-ci.org/artsalliancemedia/python-klv.png)](http://travis-ci.org/artsalliancemedia/python-klv)
-
 KLV in Python
 =============
 
 A Python  parser for KLV (Key Length Value) encoded data. KLV encoding is commonly used in the motion picture industry.
+
+Version modified from https://github.com/ronhanson/python-klv modified from https://github.com/artsalliancemedia/python-klv with the intention of keeping it useable in all Python versions.
 
 http://en.wikipedia.org/wiki/KLV
 

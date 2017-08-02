@@ -1,14 +1,13 @@
 from distutils.core import setup
-from klv import __version__
 
 setup(
-    name='klv',
-    version=__version__,
+    name='python-klv',
+    version="0.0.3",
     license='MIT',
     description='Key Length Value encoding and decoding',
-    author='Arts Alliance Media',
-    author_email='dev@artsalliancemedia.com',
-    url='https://github.com/artsalliancemedia/python-klv',
+    author='Chris Dusold',
+    author_email='cdusold@vt.edu',
+    url='https://github.com/cdusold/python3-klv',
     packages=('klv',),
     classifiers=(
         'Development Status :: 3 - Alpha',
