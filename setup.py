@@ -1,8 +1,8 @@
-from distutils.core import setup
+from setuptools import setup
 
 setup(
     name='python-klv',
-    version="0.0.3",
+    version='0.0.3',
     license='MIT',
     description='Key Length Value encoding and decoding',
     author='Chris Dusold',
